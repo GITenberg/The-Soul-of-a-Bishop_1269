@@ -1,0 +1,32 @@
+_repo: The-Soul-of-a-Bishop_1269
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "The Soul of a Bishop is a 1917 novel by H. G. Wells.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2006-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1269'
+  wikidata: Q7765370
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction'
+- !lcsh 'Religion -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Soul of a Bishop
+url: http://www.gutenberg.org/ebooks/1269
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Soul_of_a_Bishop
+- https://uk.wikipedia.org/wiki/%D0%94%D1%83%D1%88%D0%B0_%D1%94%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF%D0%B0
